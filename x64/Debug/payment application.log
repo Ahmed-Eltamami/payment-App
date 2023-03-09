@@ -1,0 +1,14 @@
+﻿  app.c
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(92,48): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(92,32): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(94,49): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(94,33): warning C4024: 'isValidAccount': different types for formal and actual parameter 2
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(106,56): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(106,40): warning C4024: 'search': different types for formal and actual parameter 2
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(116,29): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t (*)[255]'
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(116,19): warning C4024: 'saveTransaction': different types for formal and actual parameter 1
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(117,60): warning C4047: 'function': 'ST_transaction_t *' differs in levels of indirection from 'ST_transaction_t (*)[255]'
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(117,50): warning C4024: 'recieveTransactionData': different types for formal and actual parameter 1
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(117,78): warning C4047: 'function': 'ST_accountsDB_t *' differs in levels of indirection from 'ST_accountsDB_t (*)[255]'
+E:\FWD embedded system\Task\payment application\payment application\Application\app.c(117,62): warning C4024: 'recieveTransactionData': different types for formal and actual parameter 2
+  payment application.vcxproj -> E:\FWD embedded system\Task\payment application\x64\Debug\payment application.exe
